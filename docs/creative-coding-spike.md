@@ -46,7 +46,6 @@ Scroll-driven-animations:
 
 Creative coding Inspiratie:
 - [Pinterest](https://www.pinterest.com/)
-- [7 secrets for enhancing UX with micro-interactions](https://www.webdesignerdepot.com/2015/07/7-secrets-for-enhancing-ux-with-micro-interactions/)
 - [Site of the day - Awwwards](https://www.awwwards.com/websites/)
 - [Playground Codrops](https://tympanus.net/codrops/category/playground/)
 
