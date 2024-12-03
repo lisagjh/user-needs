@@ -25,10 +25,9 @@ Tijdens deze opdracht doorloop je drie keer alle fases van de DLC: **Analyseren*
 Focus sprint # - De focus van deze sprint ligt op creative coding, het verkennen van ideeen voor interactie en samenwerken.
 
 Deze opdracht is done als:
-- [ ] jouw code een statische website *‌build*;
-- [ ] de statische website online te bekijken is;
-- [ ] je het verschil in respons tijd en het het verschil in kilobytes gedocumenteerd hebt in je wiki.
-- [ ] (optioneel) jouw code automatisch opnieuw *gebuild* wordt en gepubliceerd wordt naar de live site bij een push naar GitHub of na een update van de content(continuous deployment);
-- [ ] maak een keuze voor de deployment van jouw site en onderbouw in je wiki waarom dit de beste optie is
+- [ ] je met jouw team per teamlid drie creative coding spikes in branches hebt gerealiseerd.
+- [ ] de verschillende creative coding spikes op het web te bekijken zijn.
+- [ ] je het verschil in performance per spike hebt gedocumenteerd in de pull-requests.
+- [ ] je een keuze hebt gemaakt welke creative coding spikes bijdragen aan de gebruikservaring.
 
 
