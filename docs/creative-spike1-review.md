@@ -23,9 +23,9 @@ Presenteer:
 
 Elke week maken jullie een nieuwe creative spike. Je begint elke week met een leeg canvas, maar de feedback die je ontvangt tijdens de vrijdagen kun je wel meenemen in het ontwerpen van een nieuwe creative spike. 
 
-Tijdens het presenteren van het werk let jij op de volgende punten:
+Tijdens het presenteren van het werk let jij op de volgende punten. Maak issues aan voor de feedback die je geeft:
 - Welke composities zijn er gebruikt? Tip: pak de woordenlijst er nog eens bij.
-- Geef feedback op het ontwerp. Welke design principes kunnen er volgens jou nog beter gehanteerd worden voor in de volgende creative spike?
+- Geef feedback op het ontwerp. Welke design principes kunnen er volgens jou nog beter gehanteerd worden voor in de volgende creative spike? 
 - Wat zou er nog meer gedaan kunnen worden op de pleasurable laag?
 
 
