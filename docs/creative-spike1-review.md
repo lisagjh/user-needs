@@ -2,11 +2,11 @@
 
 ## Review
 
-Deze week ben je aan de slag gegaan met de eerste creative spike. Review de creative spikes in groepjes van 4 personen. Dit doe je bij een groot scherm. De planning wanneer je met jouw groep gaat presenteren, staat aangegeven op het whiteboard. 
+Deze week hebben jullie gewerkt aan de eerste creative spike. Review de creative spikes in groepjes van 4 personen. Dit doe je bij een groot scherm. De planning wanneer je met jouw groep gaat presenteren, staat aangegeven op het whiteboard. 
 
 ### Aanpak
 
-Deze week hebben jullie gewerkt aan de eerste creative spike. Vandaag gaan jullie de creative spikes van elkaar reviewen. Jullie presenteren het gemaakte werk aan elkaar op groot scherm. Je hebt maximaal 7 minuten per persoon inclusief feedback. Wanneer je niet je werk aan het presenteren bent, werk je aan het verzamelen van **bewijslast**. 
+Vandaag gaan jullie de creative spikes van elkaar reviewen. Jullie presenteren het gemaakte werk aan elkaar op groot scherm. Je hebt maximaal 7 minuten per persoon inclusief feedback. Wanneer je niet je werk aan het presenteren bent, werk je aan het verzamelen van **bewijslast**. 
 
 ### Presenteren van je werk: 
 
