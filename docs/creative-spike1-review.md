@@ -14,14 +14,14 @@ Deze week hebben jullie gewerkt aan de eerste creative spike. Vandaag gaan julli
 
 - Zorg dat de issues aanstaan op jouw repo
 
-#### Presteren doe je zo:
+#### Presenteren
 
 Presenteer:
 - Het eindresultaat in de browser
 - Vertel hoe je er bent gekomen. Wat was jouw inspiratie?
 - Deel hoe je het hebt gemaakt, laat hierbij code zien
 
-### Zo geef je feedback:
+#### Feedback
 
 Elke week maken jullie een nieuwe creative spike. Je begint elke week met een leeg canvas, maar de feedback die je ontvangt tijdens de vrijdagen kun je wel meenemen in het ontwerpen van een nieuwe creative spike. 
 
