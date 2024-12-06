@@ -2,7 +2,7 @@
 
 ## Review
 
-Review de creative spikes in groepjes van 4 personen. Dit doe je bij een groot scherm. De planning wanneer je met jouw groep gaat presenteren, staat aangegeven op het whiteboard. 
+Deze week ben je aan de slag gegaan met de eerste creative spike. Review de creative spikes in groepjes van 4 personen. Dit doe je bij een groot scherm. De planning wanneer je met jouw groep gaat presenteren, staat aangegeven op het whiteboard. 
 
 ### Aanpak
 
