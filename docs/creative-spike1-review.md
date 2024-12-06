@@ -6,7 +6,7 @@ Deze week hebben jullie gewerkt aan de eerste creative spike. Review de creative
 
 ### Aanpak
 
-Vandaag gaan jullie de creative spikes van elkaar reviewen. Jullie presenteren het gemaakte werk aan elkaar op groot scherm. Je hebt maximaal 7 minuten per persoon inclusief feedback. Wanneer je niet je werk aan het presenteren bent, werk je aan het verzamelen van **bewijslast**. 
+Vandaag gaan jullie de creative spikes van elkaar reviewen. Jullie presenteren het gemaakte werk aan elkaar op groot scherm. Je hebt maximaal 7 minuten per persoon inclusief feedback. Wanneer je niet je werk aan het presenteren bent al groep, werk je aan het verzamelen van **bewijslast**. 
 
 ### Presenteren van je werk: 
 
