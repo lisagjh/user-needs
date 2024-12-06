@@ -8,18 +8,20 @@ Review de creative spikes in groepjes van 4 personen.
 
 Deze week hebben jullie gewerkt aan de eerste creative spike. Vandaag gaan jullie de creative spikes van elkaar reviewen. Jullie presenteren het gemaakte werk aan elkaar op groot scherm. Je hebt maximaal 7 minuten per persoon inclusief feedback. Wanneer je niet je werk aan het presenteren bent, werk je aan het verzamelen van **bewijslast**. 
 
-### Voorbereiding
+### Presenteren van je werk: 
+
+#### Voorbereiding van de presentatie
 
 - Zorg dat de issues aanstaan op jouw repo
 
-### Presenteren
+#### Presteren doe je zo:
 
 Presenteer:
 - Het eindresultaat in de browser
 - Vertel hoe je er bent gekomen. Wat was jouw inspiratie?
 - Deel hoe je het hebt gemaakt, laat hierbij code zien
 
-### Feedback geven
+### Zo geef je feedback:
 
 Elke week maken jullie een nieuwe creative spike. Je begint elke week met een leeg canvas, maar de feedback die je ontvangt tijdens de vrijdagen kun je wel meenemen in het ontwerpen van een nieuwe creative spike. 
 
