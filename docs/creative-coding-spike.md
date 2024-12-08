@@ -16,7 +16,7 @@ Je leert hoe je met CSS en client-side JS creatieve oplossing voor de interface 
 
 ## Werkwijze
 
-Je gaat werken op een manier die in scrum een *programming spike* wordt genoemd. Een spike is een taak gericht op het beantwoorden van een vraag of het verzamelen van informatie. In plaats van het produceren van een verzendbaar product. Bij sommige taken kan niet goed ingeschat  worden tot het ontwikkelteam daadwerkelijk wat werk verricht om een technische vraag of ontwerpprobleem op te lossen. De oplossing is dan om een zogenaamde 'spike' te creëren.
+Je gaat werken op een manier die in scrum een *programming spike* wordt genoemd. Een spike is een taak gericht op het beantwoorden van een vraag of het verzamelen van informatie. In plaats van het produceren van een verzendbaar product. Bij sommige taken kan niet goed ingeschat worden tot het ontwikkelteam daadwerkelijk wat werk verricht om een technische vraag of ontwerpprobleem op te lossen. De oplossing is dan om een zogenaamde 'spike' te creëren.
 
 > Creative coding is a type of computer programming in which the goal is to create something expressive instead of something functional. - [Wikipedia](https://en.wikipedia.org/wiki/Creative_coding)
 
@@ -40,11 +40,23 @@ Elke week ontwerp en maak je een creatieve oplossing, welke je op vrijdag gaat t
 13. Bespreek tenslotte met je team welke functionaliteit overgenomen wordt in de code-base. Sluit de andere pull-requests maar verwijder niet de branches!
 
 ### Materiaal
-Scroll-driven-animations:
+
+#### Spike 1: Scroll-driven Animations
+
 - [scroll-driven-animations.style door Bramus](https://scroll-driven-animations.style/)
 - [Unleash the power of scroll driven animations @ CSS-Tricks](https://css-tricks.com/unleash-the-power-of-scroll-driven-animations/)
+- [Liven up your websites with Scroll-Driven Animations & View Transitions @ YouTube](https://www.youtube.com/watch?v=nFbuXdEU-oA)
 
-Creative coding Inspiratie:
+#### Spike 2: View Transitions
+
+- [View Transitions](https://view-transitions.chrome.dev/)
+- [Smooth transitions with the View Transition API](https://developer.chrome.com/docs/web-platform/view-transitions/)
+- [View Transitions Demo](https://live-transitions.pages.dev/)
+- [Liven up your websites with Scroll-Driven Animations & View Transitions @ YouTube](https://www.youtube.com/watch?v=nFbuXdEU-oA)
+- [View transitions in the real world](https://view-transitions-irl.netlify.app/)
+
+#### Creative coding Inspiratie:
+
 - [Pinterest](https://www.pinterest.com/)
 - [Site of the day - Awwwards](https://www.awwwards.com/websites/)
 - [Playground Codrops](https://tympanus.net/codrops/category/playground/)
