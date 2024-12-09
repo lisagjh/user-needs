@@ -53,6 +53,7 @@ Elke week ontwerp en maak je een creatieve oplossing, welke je op vrijdag gaat t
 - [Smooth transitions with the View Transition API](https://developer.chrome.com/docs/web-platform/view-transitions/)
 - [View Transitions Playlists demo](https://live-transitions.pages.dev/)
 - [Liven up your websites with Scroll-Driven Animations & View Transitions @ YouTube](https://www.youtube.com/watch?v=nFbuXdEU-oA)
+- [Unlocking view transitions in SvelteKit](https://svelte.dev/blog/view-transitions)
 - [View transitions in the real world (slides)](https://view-transitions-irl.netlify.app/)
 
 #### Creative coding Inspiratie:
