@@ -1,30 +1,35 @@
-# Creative spike week 2
+# Creative Spike Week 2  
 
-## Review
+## Review  
 
-Deze week hebben jullie gewerkt aan de tweede creative spike met view transitions. We gaan in twee grote groepen de creative spikes reviewen. En delen de ruimte dus op in twee. 
+Deze week hebben jullie gewerkt aan de tweede creative spike met view transitions. We splitsen de groep in tweeën, zodat jullie in kleinere groepen elkaars werk kunnen reviewen.  
 
-### Aanpak
+### Aanpak  
 
-Vandaag gaan jullie de creative spikes presenteren aan de groep. Jullie presenteren het gemaakte werk op een groot scherm.
+Vandaag presenteren jullie de creative spikes aan de groep. Elk van jullie laat het gemaakte werk zien op een groot scherm.  
 
-### Presenteren van je werk: 
+### Presenteren van je werk  
 
-#### Voorbereiding van de presentatie
+#### Voorbereiding van de presentatie  
 
-- Zorg dat de issues aanstaan op jouw repo
+- Zorg ervoor dat de issues aanstaan in jouw repository.  
 
-#### Presenteren
+#### Tijdens de presentatie  
 
-Vraag iemand uit de groep om aantekeningen voor je te maken. De rest heeft de laptops dicht en telefoon op zak. 
+- Vraag iemand uit de groep om issues voor je aan te maken.  
+- De rest houdt de laptops dicht en telefoons op zak.  
 
-Tijdens de presentatie laat je het volgende zien aan jouw groepgenoten:
-- Welke woorden had je
-- Hoe ging het proces tot het eindresultaat (idee, concept, schetsen etc)
-- Demo van je creative spike
-- De groep gaat raden hoe het is gemaakt, en dan vertel jij hoe je het hebt gedaan.
-- De groep geeft tips hoe het nog vetter zou kunnen
+Laat tijdens je presentatie het volgende zien aan de groep:  
+1. Welke woorden je hebt gebruikt.  
+2. Hoe het proces verliep tot het eindresultaat. Laat bijvoorbeeld het inspiratie bord zien, neem ons mee in jouw ideeën en concept en toon eventuele schetsen/ontwerpen in Figma. 
+3. Een demo van de creative spike.  
+4. Laat de groep raden hoe het is gemaakt. Bijvoorbeeld: Is er gebruik gemaakt view-transitions in JS of in CSS? Heb je gebruik gemaakt van groups of van old en new? Gebruik je nog key-frames animaties? Leg verolgens zelf uit hoe je het hebt gedaan aan de hand van jouw code. 
+5. Ontvang feedback van de groep.  
 
-#### Scoring
+### Scoring  
 
-Na alle presentaties krijg je twee stemmen in de vorm van stickers, deze kun je op het vel papier wat op een whiteboard hangt opplakken naast een naam waarvan jij denkt dat het echt "vibende" 😎, "shinende" ✨, "swagende" 👌 of voor de wat oudere onder ons: vet cool gave 👵🏻, view transition was. 
+Na alle presentaties krijgt iedereen twee stemmen in de vorm van stickers. Deze stickers kun je plakken op het vel papier dat op een whiteboard hangt, naast de naam van degene waarvan jij vindt dat hun view transition echt:  
+- **Vibend** 😎  
+- **Shinend** ✨  
+- **Swagend** 👌  
+- Of, voor de wat ouderen onder ons: **vet cool gaaf** 👵🏻  
