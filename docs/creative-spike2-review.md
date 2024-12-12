@@ -23,7 +23,7 @@ Laat tijdens je presentatie het volgende zien aan de groep:
 1. Welke woorden je hebt gebruikt.  
 2. Hoe het proces verliep tot het eindresultaat. Laat bijvoorbeeld het inspiratie bord zien, neem ons mee in jouw ideeën en concept en toon eventuele schetsen/ontwerpen in Figma. 
 3. Een demo van de creative spike.  
-4. Laat de groep raden hoe het is gemaakt. Bijvoorbeeld: Is er gebruik gemaakt view-transitions in JS of in CSS? Heb je gebruik gemaakt van groups of van old en new? Gebruik je nog key-frames animaties? Leg verolgens zelf uit hoe je het hebt gedaan aan de hand van jouw code. 
+4. Laat de groep raden hoe het is gemaakt. Bijvoorbeeld: Is er gebruik gemaakt view-transitions in JS of in CSS? Heb je gebruik gemaakt van groups of van old en new? Gebruik je nog key-frames animaties? Leg vervolgens zelf uit hoe je het hebt gedaan aan de hand van jouw code. 
 5. Ontvang feedback van de groep.  
 
 ### Scoring  
