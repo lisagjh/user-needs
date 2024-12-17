@@ -52,7 +52,6 @@ Elke week ontwerp en maak je een creatieve oplossing, welke je op vrijdag gaat t
 - [View Transitions demos](https://view-transitions.chrome.dev/)
 - [View Transitions Playlists demo](https://live-transitions.pages.dev/)
 - [Inspiratie & demo's @ Codrops](https://tympanus.net/codrops/tag/page-transition/)
-
 - [Smooth transitions with the View Transition API](https://developer.chrome.com/docs/web-platform/view-transitions/)
 - [Liven up your websites with Scroll-Driven Animations & View Transitions @ YouTube](https://www.youtube.com/watch?v=nFbuXdEU-oA)
 - [Unlocking view transitions in SvelteKit](https://svelte.dev/blog/view-transitions)
@@ -61,31 +60,33 @@ Elke week ontwerp en maak je een creatieve oplossing, welke je op vrijdag gaat t
 
 #### Spike 3: Kerstsfeer
 
+Je mag tijdens deze spike helemaal losgaan met alles wat je weet van Scroll-driven Animations en View Transitions. Maar je kunt jezelf natuurlijk ook uitdagen met iets nieuws, om alles uit de kast te halen. Hieronder wat links om mee te beginnen, maar beperk je vooral niet tot deze technieken.
+
 ##### Inspiratie
 
 - [Magical Christmas](https://www.awwwards.com/sites/magical-christmas)
 - [Google Santa Tracker](https://santatracker.google.com/)
 
-##### Anchor Positioning (CSS)
+##### Voor als je iets nieuws in CSS wilt leren en gebruiken: Anchor Positioning
 
 - [CSS anchor positioning @ MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_anchor_positioning)
 - [Introducing the CSS anchor positioning API @ web.dev](https://developer.chrome.com/blog/anchor-positioning-api)
 - [Anchor Positioning @ YouTube](https://www.youtube.com/watch?v=p18LhnYNkDQ)
 - [CSS Anchor Positioning Guide @ CSS Tricks](https://css-tricks.com/css-anchor-positioning-guide/)
 
-##### Custom Elements (HTML + JS)
+##### Of misschien iets nieuws uit HTML leren en toepassen: Custom Elements
 
 - [Using custom elements @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_components/Using_custom_elements)
-- [`&lt;snow-fall&gt;` Web Component @ zachleat.com](https://www.zachleat.com/web/snow-fall/)
+- [`<snow-fall>` Web Component @ zachleat.com](https://www.zachleat.com/web/snow-fall/)
 
-##### Web Audio (JS)
+##### Gebruik bijvoorbeeld Web Audio
 
 - [Web Audio API @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 - [Getting started with Web Audio API @ web.dev](https://web.dev/articles/webaudio-intro)
 - [Web Audio video's @ Fronteers](https://www.fronteers.nl/nl/activiteiten/2016/muziek-en-het-web)
 - [Web Audio API (samples + free book)](https://webaudioapi.com/)
 
-##### Web Bluetooth (JS)
+##### Of Web Bluetooth
 
 - [Web Bluetooth API @ MDN](https://developer.mozilla.org/en-US/docs/Web/API/Web_Bluetooth_API)
 - [An Introduction To WebBluetooth @ Smashing Magazine](https://www.smashingmagazine.com/2019/02/introduction-to-webbluetooth/)
