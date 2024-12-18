@@ -27,7 +27,7 @@ Bekijk hier de live site: https://spike-one-lisa.vercel.app/
 
 ![CCS1-threejs](https://github.com/user-attachments/assets/f45f9f29-8a0b-498e-8cd3-01c6ae7ab863)
 
-
+Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/116)
 
 * Three.js
 
