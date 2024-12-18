@@ -27,7 +27,8 @@ Bekijk hier de live site: https://spike-one-lisa.vercel.app/
 
 ![CCS1-threejs](https://github.com/user-attachments/assets/f45f9f29-8a0b-498e-8cd3-01c6ae7ab863)
 
-Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/116)
+* Hier vind je de [branch met alle code](https://github.com/lisagjh/voorhoede/tree/spike/sad-acid-lisa)
+* Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/116)
 
 * Three.js
 
@@ -40,7 +41,8 @@ Bekijk hier de live site: https://spike-two-lisa.vercel.app/
 [Hier kan je het tussenscherm / de graphic zelf bekijken
 ]( https://spike-two-lisa.vercel.app/graphic)
 
-Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/142).
+* Hier vind je de [branch met alle code](https://github.com/lisagjh/voorhoede/tree/spike/view-transition-lisa)
+* Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/142).
 
 * P5.js
 * [Svelte P5 Library](https://github.com/gregory-chatelier/svelte-p5-quick-start)
@@ -48,6 +50,8 @@ Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/14
 ### Kerst met toeters en bellen!
 
 Bekijk hier de live site: https://spike-three-lisa.vercel.app/
+
+! image toevoegen wanneer klaar
 
 Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/152)
 
