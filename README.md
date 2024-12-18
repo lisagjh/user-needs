@@ -34,6 +34,10 @@ Bekijk hier de live site: https://spike-one-lisa.vercel.app/
 
 Bekijk hier de live site: https://spike-two-lisa.vercel.app/
 
+![view-transition](https://github.com/user-attachments/assets/ce403fdb-9456-4966-8933-9d1073bb4a05)
+
+[Hier kan je het tussenscherm / de graphic zelf bekijken
+]( https://spike-two-lisa.vercel.app/)
 
 * P5.js
 * [Svelte P5 Library](https://github.com/gregory-chatelier/svelte-p5-quick-start)
