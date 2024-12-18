@@ -49,6 +49,8 @@ Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/14
 
 Bekijk hier de live site: https://spike-three-lisa.vercel.app/
 
+Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/152)
+
 * Web Audio API
 
 ## Installatie
