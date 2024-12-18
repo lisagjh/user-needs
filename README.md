@@ -7,6 +7,8 @@ Creative Coding Spikes
   * [Beschrijving](#beschrijving)
   * [Kenmerken](#kenmerken)
   * [Scroll Driven Animations](#sad-acid-graphics-scroll-driven-animations)
+  * [View Transitions](#glitzy-brutalist-view-transitions)
+  * [Kerst](#kerst-met-toeters-en-bellen)
   * [Installatie](#installatie)
   * [Gebruik](#gebruik)
   * [Bronnen](#bronnen)
