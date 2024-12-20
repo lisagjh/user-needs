@@ -46,10 +46,16 @@ Bekijk hier de live site: https://spike-two-lisa.vercel.app/
 * Hier vind je de [branch met alle code](https://github.com/lisagjh/voorhoede/tree/spike/view-transition-lisa)
 * Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/142).
 
+#### Tools
+
+Deze spike is gemaakt met P5.js en Svelte P5 library.
+
 * P5.js
 * [Svelte P5 Library](https://github.com/gregory-chatelier/svelte-p5-quick-start)
 
 ### Kerst met toeters en bellen!
+
+_Ik doe alsof deze spike niet bestaat._
 
 Bekijk hier de live site: https://spike-three-lisa.vercel.app/
 
@@ -61,9 +67,14 @@ Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/15
 
 ## Installatie
 
-## Gebruik
+1. open VScode
 
-## Bronnen
+2. Open je terminal en plak dit erin:
+`gh repo clone lisagjh/voorhoede`
+
+3. Run `npm install` in de terminal
+
+4. Open je branch naar keuze en have fun!
 
 ## Licentie
 
