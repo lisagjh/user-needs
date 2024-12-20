@@ -58,7 +58,8 @@ _Ik doe alsof deze spike niet bestaat._
 
 Bekijk hier de live site: https://spike-three-lisa.vercel.app/
 
-! image toevoegen wanneer klaar
+https://github.com/user-attachments/assets/2a047cc7-36d6-44c8-bf82-3bdd912dbd84
+
 
 Lees hier mijn [documentatie](https://github.com/fdnd-agency/voorhoede/issues/152)
 
