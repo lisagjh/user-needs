@@ -11,7 +11,6 @@ Creative Coding Spikes
     * [Kerst](#kerst-met-toeters-en-bellen)
   * [Installatie](#installatie)
   * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving
