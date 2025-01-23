@@ -1,18 +1,11 @@
 @font-face {
-  font-family: "Archivo";
-  font-display: swap;
-  src: url("font/Archivo-VariableFont_wdth\,wght.woff2");
-}
-
-@font-face {
-  font-display: swap; /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
-  font-family: "Martian Mono";
-  src: url("/font/font2/martian-mono-v3-latin-regular.woff2") format("woff2"); /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
-}
-
-@font-face {
   font-family: "Grand Bageur";
   src: url("/font/Grand-Bageur.ttf");
+}
+
+@font-face {
+  font-family: "Martian Mono";
+  src: url("/font/MartianMono.woff2");
 }
 
 * {
