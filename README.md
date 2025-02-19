@@ -35,7 +35,7 @@ Bekijk hier de live site: https://spike-one-lisa.vercel.app/
 
 ### Glitzy Brutalist View Transitions
 
-Bekijk hier de live site: https://spike-two-lisa.vercel.app/
+Bekijk hier de live site: https://user-needs-ivory.vercel.app/
 
 ![view-transition](https://github.com/user-attachments/assets/ce403fdb-9456-4966-8933-9d1073bb4a05)
 
