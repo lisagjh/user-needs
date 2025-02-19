@@ -8,11 +8,9 @@
 
   const pages = [
     { title: "Home", ref: "/" },
-    { title: "Over Ons", ref: "/over" },
-    { title: "Events", ref: "/events" },
-    { title: "Publicaties", ref: "/publicaties" },
     { title: "Leden", ref: "/members" },
     { title: "Vacatures", ref: "/vacatures" },
+    { title: "Graphic", ref: "/graphic" },
   ];
 
   const pagesCTA = [
